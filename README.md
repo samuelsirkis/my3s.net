@@ -25,8 +25,8 @@ Protiforio
 
     <body>
         <h1>Bem Vindo!</h1>
-        <h3>My3s e a minha página pessoal de portifolio</h3>
-        <p>Este é meu primeiro projeto pessoal feito a partir do zero em Brasília, Brasil pelo seu criador Samuel da Silva Sirkis, brasileiro, 33 anos de idade. Ele é um desenvolvedor web iniciante. Seu interesse pela tecnologia da informação começou quando ele tinha 18 anos, o que significa que ele é esta em crescimento. Nessa idade, ele começou a aprender sobre desenvolvimento web, segurança de redes e sistemas operacionais.</p>
+        <h3>My3s e uma página pessoal de portifolio</h3>
+        <p>Este é um primeiro projeto pessoal feito a partir do zero em Brasília, Brasil pelo seu criador Samuel da Silva Sirkis, brasileiro, 33 anos de idade. Ele é um desenvolvedor web iniciante. Seu interesse pela tecnologia da informação começou quando ele tinha 18 anos, o que significa que ele é esta em crescimento. Nessa idade, ele começou a aprender sobre desenvolvimento web, segurança de redes e sistemas operacionais.</p>
         <p>
         
         </p>
